@@ -1,0 +1,10 @@
+{
+  "AllowMages": false,
+  "AllowDraugr": false,
+  "AllowForsworn": true,
+  "AllowVampires": true,
+  "AllowFalmer": true,
+  "ManualOverride": {
+    //Removed unnessesary overrides
+  }
+}
